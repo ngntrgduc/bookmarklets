@@ -13,3 +13,4 @@ Just some bookmarklets I created.
 | [`colab.js`](/colab.js) | Open .ipynb file on GitHub in Colab |
 | [`marginize.js`](/marginize.js) | Add margin for webpage |
 | [`search-image.js`](/search-image.js) | Search image on Google, useful for Firefox |
+| [`md-yt.js`](/md-yt.js) | Show Youtube video's title and link as a markdown link | 
